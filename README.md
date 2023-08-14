@@ -1,2 +1,5 @@
-# stream-pos
-Point Of Sale System
+# Stream**POS**™
+
+#### Point Of Sale System
+
+
